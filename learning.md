@@ -8,6 +8,7 @@ Resource | Description
 [https://learn.sparkfun.com/tutorials](https://learn.sparkfun.com/tutorials) | Sparkfun are an online electronics supplier but they also provide excellent tutorials on all things electronics from the basics (circuits, soldering etc) up to robot building.
 [https://learn.adafruit.com/](https://learn.adafruit.com/) | Another electronics supplier that provide excellent tutorials on a range of electronics topics.
 [https://learn.pimoroni.com/](https://learn.pimoroni.com/) | And another
+[https://www.speedwaymotors.com/Info/All-About-Electronic-Circuits-for-Kids] | Electronics resources with a focus on kids (thank you Eliza from Lyndhurst STEM Club for Girls in New Jersey)
 
 ## 3D printing
 
